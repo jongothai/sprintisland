@@ -71,7 +71,7 @@ body {
     background-color: #F6EBD9;
 
 
-    min-height: 100vh;
+    min-height: 200vh;
 }
 
 
@@ -368,4 +368,132 @@ body {
     top: 1420px;
     left: 50%;
     transform: translateX(620px);
+}
+
+.what-is-sprint-island {
+    top: 1130px;
+    left: 50%;
+    transform: translateX(-220px);
+}
+
+.what-is-design-sprint {
+    top: 2130px;
+    left: 50%;
+    transform: translateX(-225px);
+}
+
+.diagram {
+    top: 2250px;
+    left: 50%;
+    transform: translateX(-500px);
+}
+
+.text {
+    position: absolute;
+
+
+    width: 90%;
+    max-width: 800px;
+
+    font-family: Gelion;
+    font-size: 31px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.first {
+    top: 1800px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.second {
+    top: 2650px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.concha2 {
+    top: 1100px;
+    left: 50%;
+    transform: translateX(-470px);
+}
+
+.concha3 {
+    top: 1600px;
+    left: 50%;
+    transform: translateX(-600px);
+}
+
+.concha4 {
+    top: 1800px;
+    left: 50%;
+    transform: translateX(-700px);
+}
+
+.concha5 {
+    top: 1850px;
+    left: 50%;
+    transform: translateX(-550px);
+}
+
+.concha6 {
+    top: 2000px;
+    left: 50%;
+    transform: translateX(-600px);
+}
+
+.concha7 {
+    top: 2050px;
+    left: 50%;
+    transform: translateX(-450px);
+}
+
+.concha8 {
+    top: 2200px;
+    left: 50%;
+    transform: translateX(-700px);
+}
+
+.concha9 {
+    top: 2500px;
+    left: 50%;
+    transform: translateX(-650px);
+}
+
+.concha10 {
+    top: 2650px;
+    left: 50%;
+    transform: translateX(-550px);
+}
+
+.concha11 {
+    top: 1650px;
+    left: 50%;
+    transform: translateX(650px);
+}
+
+.concha12 {
+    top: 1800px;
+    left: 50%;
+    transform: translateX(500px);
+}
+
+.concha13 {
+    top: 2080px;
+    left: 50%;
+    transform: translateX(470px);
+}
+
+.concha14 {
+    top: 2300px;
+    left: 50%;
+    transform: translateX(600px);
+}
+
+.concha15 {
+    top: 2600px;
+    left: 50%;
+    transform: translateX(500px);
 }
